@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ConTacts/static/css/main.36497136.chunk.css",
+    "main.js": "/ConTacts/static/js/main.606a316f.chunk.js",
+    "main.js.map": "/ConTacts/static/js/main.606a316f.chunk.js.map",
+    "runtime~main.js": "/ConTacts/static/js/runtime~main.cf4f18a1.js",
+    "runtime~main.js.map": "/ConTacts/static/js/runtime~main.cf4f18a1.js.map",
+    "static/css/2.266e55a5.chunk.css": "/ConTacts/static/css/2.266e55a5.chunk.css",
+    "static/js/2.79813ad9.chunk.js": "/ConTacts/static/js/2.79813ad9.chunk.js",
+    "static/js/2.79813ad9.chunk.js.map": "/ConTacts/static/js/2.79813ad9.chunk.js.map",
+    "index.html": "/ConTacts/index.html",
+    "precache-manifest.4e65885ea06b441b07ce5a7a206aa004.js": "/ConTacts/precache-manifest.4e65885ea06b441b07ce5a7a206aa004.js",
+    "service-worker.js": "/ConTacts/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/ConTacts/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/ConTacts/static/css/main.36497136.chunk.css.map"
+  }
+}
